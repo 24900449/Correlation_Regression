@@ -26,6 +26,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Output 
 
+![image](https://github.com/24900449/Correlation_Regression/blob/main/Screenshot%202026-03-16%20105641.png)
+
 # RESULT :
 The mean and variance of arrivals of objects from feeder using probability distribution
 are calculated.
